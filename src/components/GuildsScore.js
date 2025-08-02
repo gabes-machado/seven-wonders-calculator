@@ -9,7 +9,7 @@ function GuildsScore({ onScoreChange }) {
 
   return (
     <div className="score-card">
-      <h3>⚖️ Guildas (Cartas Púrpura)</h3>
+      <h3>⚖️ Guildas (Cartas Roxas)</h3>
       
       <div className="input-group">
         <label>Total de Pontos das Guildas:</label>
